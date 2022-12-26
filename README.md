@@ -20,5 +20,5 @@ last_author_message - The last message that has been sent by author. It's to avo
 
 Working procedure:
 1) Parsing NEW messages from author every second
-2) If there are new message, software automatically searching the answer in google
+2) If there is a new message, software automatically searching the answer in google
 3) If there is an answer, you automatically answer it to the discord. If it not - you just passing it
