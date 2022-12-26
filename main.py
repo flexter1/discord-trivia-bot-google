@@ -121,7 +121,7 @@ def send_answer(CHAT_ID, question):
     answer = get_answer(question)
 
     headers = {
-        'authorization': 'MTAzMDc3OTUyNjMxOTQ0Mzk2OA.Gg0X9G.ggqzOEcY6ORYz6V7kFhEAMTACkzNotVVd5MyGI',
+        'authorization': DISCORD_TOKEN,
     }
 
     json_data = {
