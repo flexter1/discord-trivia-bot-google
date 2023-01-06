@@ -31,3 +31,10 @@ pip install -r requirements.txt
 1) Parsing NEW messages from author every second
 2) If there is a new message, software automatically searching the answer in google
 3) If there is an answer, you automatically answer it to the discord. If it not - you just passing it
+
+
+## Developers
+
+- [Flexter](https://github.com/flexter1)
+- 
+  [Telegram](https://t.me/flexterwork)
